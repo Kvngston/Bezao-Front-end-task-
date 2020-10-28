@@ -1,0 +1,152 @@
+.navbar-bg{
+    background: white !important;
+}
+
+.nav-item{
+    font-size: 10pt;
+}
+
+.loginBtn-bg{
+    background-color: rgb(240,35,51) !important;
+}
+
+.action-btn{
+    margin-left: -45px;
+}
+
+.btn-primary{
+    background-color: #5267DF;
+    border: #5267DF;
+    padding: 5px 15px;
+    border-radius: 5px !important;
+}
+
+.btn-info{
+    background-color: ghostwhite;
+    border: ghostwhite;
+    padding: 5px 15px;
+    border-radius: 5px !important;
+}
+
+.btn-shadow{
+    box-shadow: 0 4px 2px -2px gray;
+    padding: 12px 20px 12px 20px !important;
+}
+
+.text-pad{
+    padding: 15px 27%;
+}
+
+.bottom-nav{
+    padding: 15px 20%;
+}
+
+.anchor-link{
+    border: none !important;
+    color: black;
+}
+
+.active{
+    border: none !important;
+    border-bottom: 4px solid orangered !important;
+}
+
+.tab-content > .active {
+    border: none !important;
+}
+
+.card{
+    box-shadow:1px 1px 0px 1px gray;
+}
+
+hr{
+    border: 1px dot-dash gray;
+}
+
+.card-img-top{
+    width: 75%;
+    padding-left: 27%;
+}
+
+.card-btn{
+    font-size: 10pt;
+    padding: 15px 30px 15px 30px !important;
+}
+
+.card-style-1{
+    height: 350px;
+}
+
+.card-style-2{
+    margin-top: 50px !important;
+    height: 350px;
+}
+
+.card-style-3{
+    margin-top: 100px !important;
+    height: 350px;
+}
+
+.accordion-links{
+    border: none !important;
+    text-decoration: none;
+    color: black;
+}
+
+.accordion-card-headers{
+    background-color: white;
+}
+
+#accordionEx{
+    padding: 15px 17% !important;
+}
+
+#headingOne1{
+    border-top: 1px solid #DFDFDF;
+}
+
+.section-bg-color{
+    background-color: #5267DF;
+}
+
+.h2-text{
+    padding: 15px 30% !important;
+}
+
+#emailTxt{
+    border: none;
+    border-radius: 5px;
+    padding: 11px 20px 13px 20px !important;
+}
+
+#contactForm{
+    width: 85%;
+    margin-left: 8%;
+}
+
+.contact-us-Btn-bg{
+    background-color: rgb(240,35,51) !important;
+    padding: 10px 10px !important;
+}
+
+.footer-nav{
+    background-color: midnightblue !important;
+}
+
+.footer-sec-bg{
+    background-color: midnightblue !important;
+}
+
+/*@media only screen and (max-device-width: 480px) {*/
+/*    .text-size-mobile{*/
+/*        font-size: 60px;*/
+/*    }*/
+/*    body{*/
+/*        background-color: red;*/
+/*    }*/
+/*}*/
+/*@media only screen and (min-width: 600px) {*/
+/*    .text-size-mobile{*/
+/*        font-size: 60px;*/
+/*    }*/
+/*}*/
